@@ -1,4 +1,4 @@
-name: Update streams
+https://github.com/CACHIBOMBO2025/inspirationlinks_m3u/blob/live/.github%2Fworkflows%2Fatualizar-tvicnnpt.ymlname: Update streams
 on:
   schedule:
     - cron: "30 */4 * * *"
